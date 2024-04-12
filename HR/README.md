@@ -9,8 +9,7 @@ HR-аналитики компании «Работа с заботой» пом
 
 
 ## 🛠 Skills
-
-            <i class="devicon-scikitlearn-plain"></i>
+<i class="devicon-scikitlearn-plain"></i>
           
 
 

@@ -9,6 +9,8 @@ HR-аналитики компании «Работа с заботой» пом
 
 
 ## 🛠 Skills
-numpy, scipy
+
+            <i class="devicon-scikitlearn-plain"></i>
+          
 
 

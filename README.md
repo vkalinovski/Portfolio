@@ -16,13 +16,14 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <a href="https://wa.me/79055512531" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo"  />
   </a>
 </div>
+
+###
+
 
 
 # 🧑‍💻 Обо мне:

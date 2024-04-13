@@ -30,6 +30,7 @@
 [![CatBoost](https://img.shields.io/badge/CatBoost-%232671E5.svg?style=for-the-badge&logo=catboost&logoColor=white)](https://catboost.ai/)
 
 
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 

@@ -50,11 +50,9 @@
 ---
 # Мои Проекты
 
-## Проект 1
+## [HR_project](https://github.com/underplintus/Portfolio/blob/main/HR/HR.ipynb)
 
 Описание проекта 1. Этот проект создан для ...
-
-[HR_project](https://github.com/underplintus/Portfolio/blob/main/HR/HR.ipynb)
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 [![CatBoost](https://img.shields.io/badge/CatBoost-%232671E5.svg?style=for-the-badge&logo=catboost&logoColor=white)](https://catboost.ai/)

@@ -62,3 +62,19 @@
 
 ## [Выбор локации для скважин](https://github.com/underplintus/Portfolio/blob/main/expansion_regions/project.ipynb)
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+
+## [Анализ интернет-магазина игр](https://github.com/underplintus/Portfolio/blob/main/games/games.ipynb)
+
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+
+
+

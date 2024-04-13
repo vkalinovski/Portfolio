@@ -51,13 +51,8 @@
 # Мои Проекты
 
 ## [HR аналитика](https://github.com/underplintus/Portfolio/blob/main/HR)
+
 | Название Проекта | Описание       | Бейджи                                             |
 |------------------|----------------|----------------------------------------------------|
-| [HR аналитика](https://github.com/underplintus/Portfolio/blob/main/HR)        | Описание проекта 1. Этот проект создан для ... | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-[![CatBoost](https://img.shields.io/badge/CatBoost-%232671E5.svg?style=for-the-badge&logo=catboost&logoColor=white)](https://catboost.ai/)
-![LightGBM](https://img.shields.io/badge/LightGBM-%2364B02E.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+| [HR аналитика](https://github.com/underplintus/Portfolio/blob/main/HR)        | Описание проекта 1. Этот проект создан для ... | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CatBoost](https://img.shields.io/badge/CatBoost-%232671E5.svg?style=flat-square&logo=catboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-%2364B02E.svg?style=flat-square&logo=lightgbm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  |
 
-| Проект 2         | Описание проекта 2. Этот проект включает ...    | ![Python](https://img.shields.io/badge/Python-3.6%20|%203.7%20|%203.8-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-orange) |

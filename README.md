@@ -50,10 +50,10 @@
 ---
 # Мои Проекты
 
-## [HR аналитика](https://github.com/underplintus/Portfolio/blob/main/HR/HR.ipynb)
+## [HR аналитика](https://github.com/underplintus/Portfolio/blob/main/HR)
 | Название Проекта | Описание       | Бейджи                                             |
 |------------------|----------------|----------------------------------------------------|
-| [HR аналитика](https://github.com/underplintus/Portfolio/blob/main/HR/HR.ipynb)        | Описание проекта 1. Этот проект создан для ... | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+| [HR аналитика](https://github.com/underplintus/Portfolio/blob/main/HR)        | Описание проекта 1. Этот проект создан для ... | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 [![CatBoost](https://img.shields.io/badge/CatBoost-%232671E5.svg?style=for-the-badge&logo=catboost&logoColor=white)](https://catboost.ai/)

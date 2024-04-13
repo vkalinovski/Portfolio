@@ -54,5 +54,16 @@
 
 | Название Проекта | Описание       | Бейджи                                             |
 |------------------|----------------|----------------------------------------------------|
-| [HR аналитика](https://github.com/underplintus/Portfolio/blob/main/HR)        | Описание проекта 1. Этот проект создан для ... | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CatBoost](https://img.shields.io/badge/CatBoost-%232671E5.svg?style=flat-square&logo=catboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-%2364B02E.svg?style=flat-square&logo=lightgbm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  |
+| [HR аналитика](https://github.com/underplintus/Portfolio/blob/main/HR)        | Описание проекта 1. Этот проект создан для ... | 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)    |
+|------------------|----------------|----------------------------------------------------|
+| [Выбор локации для скважин](https://github.com/underplintus/Portfolio/blob/main/HR)        | Описание проекта 2. Этот проект создан для ... | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)   |
 

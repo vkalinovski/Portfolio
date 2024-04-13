@@ -54,4 +54,4 @@
 
 Описание проекта 1. Этот проект создан для ...
 
-[Ссылка на Проект 1](https://github.com/underplintus/Portfolio/HR/HR.ipynb)
+[Ссылка на Проект 1](https://github.com/underplintus/Portfolio/blob/main/HR/HR.ipynb)

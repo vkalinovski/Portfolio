@@ -61,5 +61,6 @@
 
 | Название Проекта | Описание       | Бейджи                                             |
 |------------------|----------------|----------------------------------------------------|
-| Проект 1         | Описание проекта 1. Этот проект создан для ... | ![Python](https://img.shields.io/badge/Python-3.6%20|%203.7%20|%203.8-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-orange) |
+| Проект 1         | Описание проекта 1. Этот проект создан для ... | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
 | Проект 2         | Описание проекта 2. Этот проект включает ...    | ![Python](https://img.shields.io/badge/Python-3.6%20|%203.7%20|%203.8-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-orange) |

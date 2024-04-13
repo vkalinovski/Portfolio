@@ -10,6 +10,7 @@ HR-аналитики компании «Работа с заботой» пом
 
 ## 🛠 Skills
 <i class="devicon-scikitlearn-plain"></i>
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
           
 
 

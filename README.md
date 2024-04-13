@@ -55,3 +55,6 @@
 Описание проекта 1. Этот проект создан для ...
 
 [Ссылка на Проект 1](https://github.com/underplintus/Portfolio/blob/main/HR/HR.ipynb)
+
+![Python](https://img.shields.io/badge/Python-3.6%20|%203.7%20|%203.8-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-orange)

@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300">
 </div>
 
-<h1 align="center">Привет&nbsp;👋 &nbsp;Я&nbsp;Владимир, Data&nbsp;Scientist&nbsp;и&nbsp;аналитик данных</h1>
+<h1 align="center">Привет&nbsp;👋 &nbsp;Я&nbsp;Владимир, Data&nbsp;Scientist&nbsp;и&nbsp;Аналитик Данных</h1>
 
 <p align="center">
   <a href="https://t.me/vkalinovski" target="_blank">

@@ -35,7 +35,7 @@
 - **📊 Дашборды Power BI**: настроил интерактивные отчёты по ключевым метрикам, что ускорило принятие решений.  
 
 
-### 🏦 Т-Банк — Продуктовый аналитик (01 / 2025 — 04 / 2025)
+### 🏦 Т-Банк — Бизнес аналитик (01 / 2025 — 04 / 2025)
 - **💡 Исследование агентского рынка**: разработал финансовую модель оффера и проработал юридическую структуру взаимодействия.  
 - **🔗 Управление партнёрской сетью**: создал и поддерживал базу потенциальных партнёров, организовал передачу и обработку данных через ETL-скрипты на Python и SQL.  
 - **🎯 Маркетинговые кампании**: адаптировал и запускал акции специально для агентской сети, обеспечивая стабильный приток клиентов.  
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)]() [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]() [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]() [![YOLOv8](https://img.shields.io/badge/YOLOv8-FFC107?style=for-the-badge&logo=yolov8&logoColor=black)]() [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)]() [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]() [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]() [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]() [![YOLOv8](https://img.shields.io/badge/YOLOv8-FFC107?style=for-the-badge&logo=yolov8&logoColor=black)]() [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 [![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)]() [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]() [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]() [![Seaborn](https://img.shields.io/badge/Seaborn-0095D5?style=for-the-badge&logo=seaborn&logoColor=white)]() [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)]() [![Feedparser](https://img.shields.io/badge/Feedparser-FFA500?style=for-the-badge&logo=rss&logoColor=white)]() [![Requests](https://img.shields.io/badge/Requests-150458?style=for-the-badge&logo=requests&logoColor=white)]() [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-32A852?style=for-the-badge&logo=beautifulsoup&logoColor=white)]()
 
@@ -60,7 +60,7 @@
 
 | 🚀 Автономия | 🤝 Коммуникация | 📈 Бизнес-ориентация | 🧩 Стратегическое мышление |
 |-------------|----------------|----------------------|----------------------------|
-| От идеи до продакшна без микроменеджмента | Договариваюсь с технарями и бизнесом на одном языке | Нацеливаю ML-решения на измеримый финансовый эффект | Нахожу точки роста, строю дорожные карты и метрики |
+| От идеи до продакшена без микроменеджмента | Договариваюсь с технарями и бизнесом на одном языке | Нацеливаю ML-решения на измеримый финансовый эффект | Нахожу точки роста, строю дорожные карты и метрики |
 
 ---
 ###

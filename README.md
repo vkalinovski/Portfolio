@@ -1,67 +1,75 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300">
 </div>
 
-###
+<h1 align="center">Привет&nbsp;👋 &nbsp;Я&nbsp;Владимир, Data&nbsp;Scientist&nbsp;и&nbsp;аналитик данных</h1>
 
-<h1 align="center">Привет 👋 Меня зовут Владимир, я специалист по Data Science!</h1>
+<p align="center">
+  <a href="https://t.me/vkalinovski" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="28" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/79055512531" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="28" alt="WhatsApp"/>
+  </a>
+</p>
 
-###
+<hr>
 
-###
+## 🚀 Профиль
+
+🎲 **iGaming → 🏦 Т-Банк**  
+🎓 Data Science & Business Analytics, НИУ ВШЭ  
+
+> **Самостоятельный аналитик полного цикла**: от постановки задачи и сбора данных до ML-модели и бизнес-эффекта. Строю метрики, автоматизирую процессы, превращаю данные в понятные решения.
+
+---
+
+## 💼 Опыт
+
+### 🎲 iGaming — Аналитик трафика (07 / 2024 — 12 / 2024)
+- **↗ Детекция фрода и верификация трафика**: разработал скрипты Python для аномалий, сократив фрод-затраты на **15 %**.  
+- **📉 Перерасчёт партнёрских выплат**: внедрил авто-процесс, уменьшив ручной труд на **80 %**.  
+- **📊 Дашборды Power BI**: настроил живые отчёты по LTV и ROI для C-level → решения принимаются быстрее.  
+
+### 🏦 Т-Банк — Продуктовый аналитик (01 / 2025 — 04 / 2025)
+- **💡 Исследование агентского рынка**: спроектировал финансовую модель оффера, увеличив доход канала на **25 %**.  
+- **🔗 База партнёров 200+**: автоматизировал интеграцию с CRM через собственный ETL-скрипт (Python + SQL).  
+- **🎯 Маркетинговые кампании**: адаптировал акции под агентскую сеть → 1 000+ новых клиентов за квартал.  
+
+---
+
+## 🛠 Стек & инструменты
 
 <div align="center">
-  <a href="https://t.me/vkalinovski" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/79055512531" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo"  />
-  </a>
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)]() [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]() [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]() [![YOLOv8](https://img.shields.io/badge/YOLOv8-FFC107?style=for-the-badge&logo=yolov8&logoColor=black)]() [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+
+[![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)]() [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]() [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]() [![Seaborn](https://img.shields.io/badge/Seaborn-0095D5?style=for-the-badge&logo=seaborn&logoColor=white)]() [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)]() [![Feedparser](https://img.shields.io/badge/Feedparser-FFA500?style=for-the-badge&logo=rss&logoColor=white)]() [![Requests](https://img.shields.io/badge/Requests-150458?style=for-the-badge&logo=requests&logoColor=white)]() [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-32A852?style=for-the-badge&logo=beautifulsoup&logoColor=white)]()
+
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)]() [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)]()
+
 </div>
 
-###
+---
 
+## 🏆 Сильные стороны
 
-###
+| 🚀 Автономия | 🤝 Коммуникация | 📈 Бизнес-ориентация | 🧩 Стратегическое мышление |
+|-------------|----------------|----------------------|----------------------------|
+| От идеи до продакшна без микроменеджмента | Договариваюсь с технарями и бизнесом на одном языке | Нацеливаю ML-решения на измеримый финансовый эффект | Нахожу точки роста, строю дорожные карты и метрики |
 
-
-
-# 🧑‍💻 Обо мне:
-Я начинающий специалист по Data Science. Учусь на третьем курсе бакалавриата НИУ ВШЭ программы "Прикладной анализ данных". Изучил мат.анализ, линейную алгебру, дискретную математику, дифференциальные уравнения и временные ряды, также курс теор.вера и статистики. Прошёл курс алгоритмов и структур данных на Python и C++. 
-Провожу исследовательский анализ данных, формулирую гипотезы и проверяю их, выявляю тренды и закономерности, применяю кластеризацию и другие аналитические методы. В общем выжимаю максимальное количество выводов из различных данных.            
-Строю модели машинного обучения и предсказываю требуемые данные для формирования дальнейших решений компании.
-- 📚 Окончил курс Яндекс Практикума "Cпециалист по Data Science"
-- 🔎 Делал исследовательский проект для НКО
-
+---
 ###
 
 <p align="center">
- <img width="600" src="snake/github-snake.svg" alt="snake"/>
+ <img width="900" src="snake/github-snake.svg" alt="snake"/>
 </p>
 
 ###
 
-# 💻 Технические навыки:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-[![CatBoost](https://img.shields.io/badge/CatBoost-%232671E5.svg?style=for-the-badge&logo=catboost&logoColor=white)](https://catboost.ai/)
-![LightGBM](https://img.shields.io/badge/LightGBM-%2364B02E.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-
-          
 ---
 # Мои Проекты 🔥
 

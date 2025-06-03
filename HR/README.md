@@ -1,19 +1,18 @@
-# HR Аналитика
+# HR Analytics
 
-## Описание проекта
+## Project Description
 
-Проект HR-аналитики компании «Работа с заботой» направлен на оптимизацию управления персоналом с использованием машинного обучения. Аналитики анализируют данные о сотрудниках, включая их уровень удовлетворённости работой, полученный из тест-опросников. Цель проекта - построить две модели: одну для предсказания уровня удовлетворённости сотрудника на основе данных заказчика, а вторую - для предсказания вероятности увольнения сотрудника.
+The HR analytics project for the company “Work with Care” is aimed at optimizing personnel management using machine learning. Analysts examine employee data, including satisfaction levels obtained from survey questionnaires. The goal of the project is to build two models: one to predict an employee’s satisfaction level based on client data, and another to predict the likelihood of employee turnover.
 
-## Вывод
+## Conclusion
 
-Анализ данных показал, что у уволившихся сотрудников был средний уровень загруженности, они чаще работали в отделе закупок и имели низкую зарплату. Это совокупно снижало их удовлетворённость и приводило к увольнению. Рекомендации включают повышение зарплаты для категорий со средней и высокой загруженностью, а также более лояльное отношение руководителей к сотрудникам, чтобы повысить их уровень удовлетворённости и уменьшить отток персонала.
+Data analysis showed that employees who left had an average workload, more often worked in the procurement department, and had a low salary. These factors collectively lowered their satisfaction and led to their departure. Recommendations include increasing salaries for categories with medium and high workloads, as well as fostering more supportive management practices to improve satisfaction and reduce employee attrition.
 
-
-## 🛠 Инструменты
+## 🛠 Tools
 <i class="devicon-scikitlearn-plain"></i>
- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
- ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
- ![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=for-the-badge&logo=seaborn&logoColor=white)
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
